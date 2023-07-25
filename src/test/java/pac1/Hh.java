@@ -5,6 +5,7 @@ public class Hh {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//reversal:
 		String str="pragti";		
 		String str1="";
 		
