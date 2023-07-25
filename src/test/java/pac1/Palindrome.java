@@ -7,6 +7,7 @@ public class Palindrome {
 		
 		//palindrome pgm:	
 		//palindrome pgm:
+		//practice pgm:
 		String str="madam";
 		String str1="";
 		
