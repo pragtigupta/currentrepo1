@@ -3,9 +3,9 @@ package pac1;
 public class Hh {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		//reversal:
+		
 		String str="pragti";		
 		String str1="";
 		
@@ -14,9 +14,7 @@ public class Hh {
 			str1=str1+str.charAt(i);			
 			
 		}
-		System.out.println(str1);
-		
-		
+		System.out.println(str1);		
 		
 		
 
