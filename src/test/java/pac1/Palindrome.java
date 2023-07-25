@@ -6,6 +6,7 @@ public class Palindrome {
 		
 		
 		//palindrome pgm:	
+		//palindrome pgm:
 		String str="madam";
 		String str1="";
 		
