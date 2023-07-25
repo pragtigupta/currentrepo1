@@ -5,7 +5,7 @@ public class Palindrome {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//palin
+		//palindrome pgm:		
 		String str="madam";
 		String str1="";
 		
